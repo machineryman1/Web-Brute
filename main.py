@@ -17,7 +17,7 @@ banner()
 
 username = input("put the IP address page here (ex: 168.989.22): ")
 sta = at.ASCII_struct
-IP = "http://" + username + "/"
+IP = "https://" + username + "/"
 
 class usermain():
     data = input("\nHow many you want try to brute force the page? (ex: 30): ")

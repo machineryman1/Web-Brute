@@ -8,4 +8,4 @@ How To Setup & Using Web Brute 0.0.1 alpha
 3: enjoy!
 ---------------
 
-Warning ⚠️ we are not responsible for misuse this tools for malicious stuff and again this tool alpha version which had many bugs please report the issue to us for getting more improvement 
+Warning ⚠️ we are not responsible for misuse this tools for malicious stuff and again this tool alpha version which probably unpredictable bugs or glitch please report the issue to us for getting more improvement 

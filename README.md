@@ -1,4 +1,4 @@
-How To Use Web Brute
+How To Use Web Brute 0.0.1 alpha
 --------------------
 
 1: install python3 in your system

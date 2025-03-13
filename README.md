@@ -1,6 +1,7 @@
 How To Use Web Brute
+--------------------
 
-1: install python3 in your linux system or windows
+1: install python3 in your system
 ---------------
 2: execute "python3 main.py" in the terminal
 ---------------

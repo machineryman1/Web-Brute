@@ -1,4 +1,4 @@
-How to use Web_Brute
+How to Use Web Brute
 
 1: install python3 in your linux system or windows
 
